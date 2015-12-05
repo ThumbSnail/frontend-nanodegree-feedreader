@@ -2,6 +2,8 @@
 
 A.  Description
 
+	Project 6 for Udacity's Front-End Web Developer Nanodegree
+
 	Wrote comprehensive unit tests, using the Jasmine testing framework, for an RSS Feed
 	Reader application that uses Google's RSS API.
 
