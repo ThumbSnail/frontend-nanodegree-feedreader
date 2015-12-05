@@ -1,6 +1,11 @@
 ## Frontend Nanodegree Feedreader Testing
 
-A.  How to Run/Download
+A.  Description
+
+	Wrote comprehensive unit tests, using the Jasmine testing framework, for an RSS Feed
+	Reader application that uses Google's RSS API.
+
+B.  How to Run/Download
 
 	1.  Download the project's .zip file
 
@@ -12,7 +17,7 @@ A.  How to Run/Download
     git clone https://github.com/ThumbSnail/frontend-nanodegree-feedreader.git
     Then open index.html in your browser.
 
-B.  Future Features and Their Tests
+C.  Future Features and Their Tests
 
 	1.  Delete Feed Button
 
